@@ -3,8 +3,8 @@ import getAccounts1 from '@salesforce/apex/myAccountListController.getAccounts';
 
 export default class ApexImperativeMethod extends LightningElement {
 
-  // adding a comment - included in second commit
-  
+  // changing the comment -- part of commit 3
+
   draftValues = [];
 
   accounts = [];
