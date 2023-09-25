@@ -9,7 +9,7 @@ export default class ApexImperativeMethod extends LightningElement {
   // comments
   // comments
   // comments - this change was made directly in Github
-  // comments
+  // comments - making an edit on same line as in VSC
   
   draftValues = [];
 
