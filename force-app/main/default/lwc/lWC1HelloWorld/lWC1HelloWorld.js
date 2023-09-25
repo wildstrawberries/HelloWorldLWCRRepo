@@ -8,7 +8,7 @@ export default class ApexImperativeMethod extends LightningElement {
   // adding comment block as part of FeatureBranch1
   // comments
   // comments
-  // comments
+  // comments - this change was made directly in Github
   // comments
   
   draftValues = [];
